@@ -1,3 +1,5 @@
+package parte1_filosofos.deadlock;
+
 import java.util.concurrent.Semaphore;
 
 public class Garfo {
@@ -18,6 +20,6 @@ public class Garfo {
     }
 
     public void largar(){
-        semaphore.release;
+        semaphore.release();
     }
 }
