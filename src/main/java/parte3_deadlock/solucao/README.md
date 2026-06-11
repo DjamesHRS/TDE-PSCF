@@ -8,6 +8,8 @@ Diagrama feito no excalidraw.com para representar a solução implementada
 
 #
 
+# Printscreen de logs
+
 ![img_1.png](img_1.png)
 Printscreen do terminal após execução do comando jstack com o PID da classe Deadlock
 
