@@ -13,7 +13,7 @@ o semáforo por vez e executa o incremento isoladamente, e só depois outra Thre
 No diagrama abaixo vemos o mesmo cenário anterior, mas com um semáforo, garantindo que a Thread 1 execute toda sua operação
 antes das Thread 2 conseguir consultar o valor.
 
-![img_9.png](img_9.png)
+![img_10.png](img_10.png)
 
 #
 
