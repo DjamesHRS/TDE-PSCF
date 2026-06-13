@@ -20,6 +20,7 @@ espera por recursos e possibilidade de impasse.
 
 ## 3. Representação da Mesa
 ![Imagem 1](img/img1.png)
+
 *Mesa circular com 5 filósofos e 5 garfos*
 
 ## 4. Versão com Deadlock
@@ -36,9 +37,11 @@ conseguirem pegar o garfo da esquerda. Assim, gera-se
 um ciclo infinito de espera pelo garfo da direita.
 Os anexo abaixo representam visualmente e na prática a situação:
 ![Imagem 2](img/img2.png)
+
 *Cada filósofo conseguiu pegar o garfo a esquerda*
 
 ![Imagem 3](img/img3.png)
+
 *Cada filósofo pegou o garfo a esquerda e espera
 o garfo a direita liberar*
 
@@ -103,6 +106,13 @@ Pensar -> Pegar garfo de menor indíce -> Pegar garfo de maior indíce -> Comer 
 ````
 
 ### 5.4.1 Execução
+![Imagem 4](img/img4.png)
+
+*Devemos considerar que a ordem de saída no terminal
+não representa plenamente a ordem de execução das
+`threads` pelo escalonador. Porém, pela maneira
+que o código foi desenvolvido, a garantia é de plena
+execução*
 
 
 
