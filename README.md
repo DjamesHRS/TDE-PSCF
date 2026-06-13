@@ -30,10 +30,10 @@
 `Link do Youtube: ` https://youtu.be/B4Fz6L3xXfQ
 
 ### Jantar dos Filósos (Relatório Técnico)
-`Link do README.md: ` [Relatório Técnico](./main/java/parte1_filosofos/README.md)
+`Link do README.md: ` [Relatório Técnico](src/main/java/parte1_filosofos/README.md)
 
 ### Semáforo (Relatório Técnico)
-`Link do README.md: ` [Relatório Técnico](./main/java/parte2_semaforo/solucao/README.md)
+`Link do README.md: ` [Relatório Técnico](src/main/java/parte2_semaforo/solucao/README.md)
 
 ### DeadLock (Relatório Técnico)
-`Link do README.md: ` [Relatório Técnico](./main/java/parte3_deadlock/solucao/README.md)
+`Link do README.md: ` [Relatório Técnico](src/main/java/parte3_deadlock/solucao/README.md)
